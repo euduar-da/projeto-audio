@@ -12,13 +12,13 @@ const playlist = [
   {
     title: "Girl Crush",
     artist: "Harry Styles",
-    src: "/audio/musica1.mp3",
+    src: "/audio/musica2.mp3",
     cover: "/images/capa1.jpg",
   },
   {
     title: "Silver Springs",
     artist: "Fleetwood mac",
-    src: "/audio/musica2.mp3",
+    src: "/audio/musica3.mp3",
     cover: "/images/capa2.jpg",
   },
 ];
